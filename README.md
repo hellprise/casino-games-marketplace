@@ -1,1 +1,1 @@
-https://casino-games-marketplace-h4625k1v6-hellprise.vercel.app
+https://casino-games-marketplace.vercel.app
