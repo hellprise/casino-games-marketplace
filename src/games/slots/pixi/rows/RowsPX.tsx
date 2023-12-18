@@ -25,6 +25,8 @@ export function RowsPX() {
 		g.endFill()
 	}, [])
 
+	console.log('🚀 mounted:', mounted)
+
 	useEffect(() => {
 		setMounted(true)
 	}, [])
